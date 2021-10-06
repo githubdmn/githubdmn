@@ -15,7 +15,7 @@ Skills: NodeJS / ReactJS (JS/TS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubdmn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubdmn&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubdmn&show_icons=true&theme=dark&count_private=true)  
 
 <!---![GitHub metrics](https://metrics.lecoq.io/githubdmn)  --->
 
