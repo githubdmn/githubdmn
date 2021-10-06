@@ -17,6 +17,6 @@ Skills: NodeJS / ReactJS (JS/TS)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubdmn&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/githubdmn)  
+#![GitHub metrics](https://metrics.lecoq.io/githubdmn)  
 
 ![Profile views](https://gpvc.arturio.dev/githubdmn)  
