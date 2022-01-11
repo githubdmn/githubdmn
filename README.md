@@ -13,7 +13,7 @@ Skills: NodeJS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/githubdmn)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubdmn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubdmn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubdmn&show_icons=true&theme=dark&count_private=true)  
 
