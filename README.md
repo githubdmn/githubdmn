@@ -2,7 +2,7 @@
 #### I'm a programmer
 I made this project just for learning and enhancing development skills. It allows you to create nice and simple GitHub Readme files using https://arturssmirnovs.github.io/github-profile-readme-generator/.
 
-Skills: NodeJS / ReactJS (JS/TS)
+Skills: NodeJS
 
 - 🔭 I’m currently working on NodeJS project 
 - 🌱 I’m currently learning NodeJS and React (using both JS and TS)
