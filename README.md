@@ -4,8 +4,8 @@ I made this project just for learning and enhancing development skills. It allow
 
 Skills: NodeJS
 
-- 🔭 I’m currently working on NodeJS project 
-- 🌱 I’m currently learning NodeJS and React (using both JS and TS)
+- 🔭 I’m currently working on NodeJS projects (using both JS and TS)
+- 🌱 I’m currently learning Go programming language
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 📫 How to reach me: dmninbox@gmail.com 
