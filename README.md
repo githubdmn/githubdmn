@@ -5,9 +5,8 @@ I made this project just for learning and enhancing development skills. It allow
 Skills: NodeJS
 
 - 🔭 I’m currently working on NodeJS projects (using both JS and TS)
-- 🌱 I’m currently learning Go programming language
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with
+- 🌱 I’m interested Go programming language
+- 👯 I’m looking to collaborate on NodeJS (backend and NextJS)
 - 📫 How to reach me: dmninbox@gmail.com 
 
 
